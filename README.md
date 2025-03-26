@@ -30,7 +30,7 @@ A robust backend for the Inventory Management System, designed to efficiently tr
    * Create a .env file in the root directory and specify the following variables:
    * MONGO_URI: MongoDB connection string
    * PORT: Port for the server to listen on
-     ```
+   
 4. Start the server:
    ```bash
    npm start
@@ -50,6 +50,7 @@ A robust backend for the Inventory Management System, designed to efficiently tr
 Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests.
 
 ##  Frontend Repository
-The link to the frontend repository can be found [here](https://github.com/Balakumaran1109/Inventory_App_Frontend).
+The link to the frontend repository can be found here [Frontend Repo](https://github.com/Balakumaran1109/Inventory_App_Frontend).
 
----
+## License
+This project is open-source and available under the MIT License.
