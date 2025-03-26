@@ -19,7 +19,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use(
   cors({
-    origin: ["http://localhost:5174", "https://inventory-management-app-1.netlify.app"],
+    origin: ["http://localhost:5174", "https://inventory-app-backend-jdky.onrender.com"],
     credentials: true,
   })
 );
