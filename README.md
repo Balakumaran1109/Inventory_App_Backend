@@ -19,7 +19,7 @@ A robust backend for the Inventory Management System, designed to efficiently tr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/inventory-management-backend.git
+   git clone https://github.com/Balakumaran1109/Inventory_App_Backend.git
    cd backend
    ```
 2. Install dependencies:
