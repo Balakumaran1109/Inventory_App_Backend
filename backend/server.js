@@ -18,10 +18,7 @@ app.use(cookieParser());
 app.use(express.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use(
-  cors({
-    origin: ["http://localhost:5174", "https://inventory-management-app-1.netlify.app"],
-    credentials: true,
-  })
+  cors()
 );
 
 app.use("/uploads", express.static(path.join(__dirname, "uploads")));
